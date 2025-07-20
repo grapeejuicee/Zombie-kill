@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/Zombie-kill/static/css/main.b37a8aa9.css",
-    "main.js": "/Zombie-kill/static/js/main.36e3fc38.js",
+    "main.css": "/Zombie-kill/static/css/main.75c80da4.css",
+    "main.js": "/Zombie-kill/static/js/main.c60cbed9.js",
     "static/js/453.5814abc8.chunk.js": "/Zombie-kill/static/js/453.5814abc8.chunk.js",
     "static/media/survivor.png": "/Zombie-kill/static/media/survivor.2a1d927d46f7b65e1c81.png",
     "static/media/zombie.png": "/Zombie-kill/static/media/zombie.75b4337099720a4118ea.png",
+    "static/media/flower.png": "/Zombie-kill/static/media/flower.1e74602628d161c9a56c.png",
     "index.html": "/Zombie-kill/index.html",
-    "main.b37a8aa9.css.map": "/Zombie-kill/static/css/main.b37a8aa9.css.map",
-    "main.36e3fc38.js.map": "/Zombie-kill/static/js/main.36e3fc38.js.map",
+    "main.75c80da4.css.map": "/Zombie-kill/static/css/main.75c80da4.css.map",
+    "main.c60cbed9.js.map": "/Zombie-kill/static/js/main.c60cbed9.js.map",
     "453.5814abc8.chunk.js.map": "/Zombie-kill/static/js/453.5814abc8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b37a8aa9.css",
-    "static/js/main.36e3fc38.js"
+    "static/css/main.75c80da4.css",
+    "static/js/main.c60cbed9.js"
   ]
 }

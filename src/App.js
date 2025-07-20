@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import './App.css';
 import zombie from './assets/zombie.png'
 import survivor from './assets/survivor.png'
+import flowers from './assets/flower.png'
 
 const sentences = [
   "Why run? Just type!",
@@ -109,6 +110,15 @@ const sentences = [
   "You're surrounded. Start typing!"
 ];
 
+const flowerStyles = [
+  { left: '5%', top: '10px', width: '20px', height: '20px' },
+  { left: '17%', top: '5px', width: '22px',height: '22px' },
+  { left: '33%', top: '12px', width: '30px',height: '30px' },
+  { left: '50%', top: '18px', width: '28px',height: '28px' },
+  { left: '64%', top: '9px', width: '26px' ,height: '26px'},
+  { left: '80%', top: '6px', width: '27px',height: '27px' },
+  { left: '90%', top: '14px', width: '21px',height: '21px' },
+];
 
 function getrandomsentence(){
   const randomindex=Math.floor(Math.random() * sentences.length);
@@ -197,6 +207,11 @@ useEffect(() => {
           </div>
 
           <div className='allgrass'>
+            {flowerStyles.map((style, index) => (
+              <img
+                key={index} src={flowers} alt="flower" className="flower" style={{ position: 'absolute', ...style }}
+              />
+            ))}
           </div>
 
         </div>

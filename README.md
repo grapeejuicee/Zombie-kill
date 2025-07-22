@@ -9,7 +9,11 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
+<<<<<<< HEAD
 Open [https://grapeejuicee.github.io/Zombie-kill/ ](https://grapeejuicee.github.io/Zombie-kill/ ) to view it in your browser.
+=======
+Open [https://grapeejuicee.github.io/Zombie-kill/](https://grapeejuicee.github.io/Zombie-kill/) to view it in your browser.
+>>>>>>> 3abfcd3b399b45e627d3b21dc2fe6584b48dfe32
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.

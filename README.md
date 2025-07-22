@@ -1,9 +1,13 @@
-# Getting Started with Create React App
+# Zombie Kill Game
+Zombie Kill is a simple and engaging typing game built with React.js. The game challenges your typing speed and accuracy as you try to survive a zombie invasion.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## How to Play
+Type the sentence shown on the screen as fast and accurately as possible. The zombie advances every few seconds, so you have limited time. Use your keyboard as your weapon to survive. If you type within the given time, you will survive. Otherwise, you'll be dead.
 
-## Available Scripts
+## Try it Live!
+Play now at: https://grapeejuicee.github.io/Zombie-kill/
 
+<<<<<<< HEAD
 In the project directory, you can run:
 
 ### `npm start`
@@ -72,3 +76,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+>>>>>>> 0d99942c4d88471c46810425fcadec84d331ea8a

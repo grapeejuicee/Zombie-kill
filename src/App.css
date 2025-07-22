@@ -25,29 +25,34 @@ html, body {
   display: inline-block;
   animation: pulse 3s infinite ease-in-out;
   color: rgb(200, 228, 218);
+  width: min(30%,300px);
+  font-size:clamp(8px,3vw,14px);
 }
 .scoreboard{
   position: fixed;
   top:30px;
-  right:60px;
+  right:5vw;
   display: flex;
   align-items: center;
   gap: 6px;
+  box-sizing: border-box;
 }
 
 .scoreboard p{
   color: rgb(200, 228, 218);
   font-family: 'Press start 2P', cursive;
   height:10px;
-  font-size:small;
+  font-size:clamp(8px,2vw,14px);
 }
 
 .scorebox{
   border-radius: 10px;
-  width: 200px;
   height: 15px;
   border: 2px solid rgb(200, 228, 218);
   overflow: hidden;
+  flex: 1;
+  width: clamp(100px, 20vw, 200px);
+  height: clamp(8px, 2vw, 15px);
 }
 
 .score-fill{
@@ -86,8 +91,8 @@ html, body {
 .zombie img{
   position: absolute;
   bottom: 93px;
-  height:140px;
-  width:140px;
+  width: clamp(90px, 20vw, 122px);
+  height: auto;
   border-radius: 200px;
   z-index: 2;
   padding-left: 15px;
@@ -97,8 +102,8 @@ html, body {
 .player img{
   position: absolute;
   bottom: 93px;
-  height: 140px;
-  width: 140px;
+  width: clamp(90px, 20vw, 122px);
+  height: auto;
   padding-right: 25px;
   right: 0;
   z-index: 2;
@@ -106,7 +111,7 @@ html, body {
 
 .currentsentence{
   font-family: 'Press start 2P', cursive;
-  font-size: larger;
+  font-size: clamp(13px,2vw,19px);
   text-align: center;
   display: block;
   margin: 20px auto;
@@ -122,7 +127,7 @@ input::placeholder{
   background: none;
   outline:none;
    font-family: 'Press start 2P', cursive;
-  font-size: large;
+  font-size: clamp(13px,2vw,19px);
   width: 100%;
   color: white;
   text-align: center;

@@ -3,111 +3,160 @@ import './App.css';
 import zombie from './assets/zombie.png'
 import survivor from './assets/survivor.png'
 import flowers from './assets/flower.png'
+import meme1 from './assets/recism(1).jpg';
+import meme2 from './assets/history.jpg';
+import meme4 from'./assets/kashmiri.jpeg';
+import meme5 from'./assets/higher(1).jpg';
+import meme6 from'./assets/sam(1).jpg';
+import meme7 from'./assets/signn.jpg';
+import meme8 from'./assets/happy.jpg';
+import meme9 from'./assets/911.jpg';
+import meme10 from'./assets/af.jpg';
+import meme12 from'./assets/stop.jpeg';
+import meme13 from'./assets/grim.jpg';
+import meme14 from'./assets/family.jpg';
+import meme15 from'./assets/chinese.jpeg';
+import meme16 from'./assets/child.jpeg';
+import meme17 from'./assets/arrest.jpeg';
+import meme18 from'./assets/job.jpeg';
+import meme19 from'./assets/friends.jpeg';
+import meme20 from'./assets/lil.jpeg';
+import meme21 from'./assets/wait.jpeg';
+import meme22 from'./assets/chi.jpeg';
+import meme23 from'./assets/christ.jpeg';
+import meme24 from'./assets/crash.jpeg';
+import meme25 from'./assets/resume.jpeg';
+import meme26 from'./assets/black.jpeg';
+import meme27 from'./assets/potter.jpeg';
+import meme28 from'./assets/grandma.jpeg';
+import meme29 from'./assets/twin.jpg';
+import meme30 from'./assets/dark.jpeg';
+import meme31 from'./assets/berlin.jpeg';
+import meme32 from'./assets/death.jpg';
+
+
+
 
 const sentences = [
-  "Why run? Just type!",
-  "Just one more sentence... maybe.",
-  "Letter by letter to freedom.",
-  "LOL, you're doomed.",
-  "You're on fire... not literally.",
-  "Faster! Before it's too late.",
-  "Type me baby one more time.",
-  "Oops, that was a brain!",
-  "Brains are a zombie's favorite snack.",
-  "Don't stop typing... ever.",
-  "Say hello to doom with style.",
-  "Ghosts wish they typed this good.",
-  "Oops, forgot the full stop.",
-  "Just another sentence to go.",
-  "Was that your last word?",
-  "Typers gonna type.",
-  "This font is your fate.",
-  "Keyboard: your last line of defense.",
-  "Who needs weapons? You have fingers.",
-  "Coffee fuels survival.",
-  "Stay focused or stay eaten.",
-  "Witty typing saves the day.",
-  "Grave mistakes were made.",
-  "Mind the caps lock!",
-  "404: Safe zone not found.",
-  "Stay alert, stay alive.",
-  "Zombies appreciate grammar too.",
-  "Typo? Say goodbye.",
-  "The quick brown fox tripped.",
-  "Fast fingers save futures.",
-  "Life's short, type faster.",
-  "Don't feed the zombies.",
-  "Why so serious? It's just zombies.",
-  "Don't blink. Just type.",
-  "Mistakes were made... again.",
-  "This is not a drill... it's a keyboard.",
-  "Escape is just a key... or is it?",
-  "Don't lose your head... literally.",
-  "Watch your fingers, they're tasty.",
-  "Congratulations, you're still alive.",
-  "Ctrl+Z won't save you now.",
-  "Aliens are judging your grammar.",
-  "This is not a typing test.",
-  "Last one to type is eaten.",
-  "Hit that spacebar like a boss.",
-  "Beware of typos in the dark.",
-  "Breathe. Type. Survive.",
-  "Keep your fingers on the home row.",
-  "Let's make typos extinct.",
-  "Shhh! Zombies can hear typos.",
-  "You vs Zombies. Let's go!",
-  "Nice try, zombie!",
-  "You can't spell survive without U.",
-  "You've got guts... they want them.",
-  "You vs autocorrect: FIGHT!",
-  "The undead are unimpressed.",
-  "Even zombies are impressed.",
-  "This is your moment.",
-  "Keyboard warrior mode: ON.",
-  "This game bites.",
-  "Almost saved... or are you?",
-  "Just vibing... with danger.",
-  "This sentence is a trap.",
-  "Blink and you're eaten.",
-  "Auto-correct is your enemy now.",
-  "If you can read this, you're still safe.",
-  "Be the hero. Type the sentence.",
-  "Type now, scream later.",
-  "Procrastinate now, panic later.",
-  "Hurry up, it's lunch time... for them.",
-  "Keep typing or start running.",
-  "Short and snappy saves lives.",
-  "They can smell your fear.",
-  "Touch-typing = pro-survival.",
-  "Beware: undead grammar police.",
-  "Oops, was that a real zombie?",
-  "Your fingers are delicious.",
-  "Wrong letter = game over.",
-  "Zombies dislike slow typers.",
-  "Type before they bite.",
-  "Welcome to typo hell.",
-  "No time for punctuation!",
-  "Even brains need spaces.",
-  "You broke the keyboard again.",
-  "Shift happens.",
-  "Avoid caps-lock rage.",
-  "Run? Nah, just type!",
-  "Every sentence is a battle.",
-  "Escape through words.",
-  "Grammar police meet zombie law.",
-  "Save yourself, press enter.",
-  "Deadlines? More like lifelines.",
-  "Press F to survive.",
-  "Your life = 100 WPM.",
-  "Typing is your only weapon.",
-  "Correct or be consumed.",
-  "Victory is in the vocabulary.",
-  "Quick! Type to escape.",
-  "Spacebar is your savior.",
-  "Backspace can't fix bites.",
-  "This sentence wants you alive.",
-  "Oops! Zombie took a nibble.",
-  "You're surrounded. Start typing!"
+  {text: "Racism starts from here..",
+   image: meme1
+  },
+
+  {text: "What archaeologists will find in 500 years",
+  image: meme2
+  },
+
+  {text: "Kashmiri bhi jaat hai..",
+  image: meme4
+  },
+
+  {text: "Higher Education",
+  image: meme5
+  },
+
+  {text: "Samsung finally converted to islam",
+  image: meme6
+  },
+
+  {text: "Thank god I saw the sign",
+  image: meme7
+  },
+
+  {text: "Happy 9/11...",
+  image: meme8
+  },
+
+  {text: "When Europeans call it 11/09",
+  image: meme9
+  },
+
+  {text: "Getting a new car tonight, so excited!",
+  image: meme10
+  },
+
+  {text: "Your patient who has been in a comma is now in a full stop",
+  image: meme12
+  },
+
+  {text: "The right person will come for you one day-",
+  image: meme13
+  },
+
+  {text: "Family doctors with orphans.",
+  image: meme14
+  },
+
+  {text: "When you try to help the kids but they are-",
+  image: meme15
+  },
+
+  {text: "There has got be a better way to display children's clothes",
+  image: meme16
+  },
+
+  {text: "How cute, he's dreaming of his first arrest.",
+  image: meme17
+  },
+  
+  {text: "Even if your job is boring, make it fun.",
+  image: meme18
+  },
+
+  {text: "True friendship.",
+  image: meme19
+  },
+
+  {text: "When you're only a little racist.",
+  image: meme20
+  },
+
+  {text: "Wait he's back?",
+  image: meme21
+  },
+
+  {text: "Even chinese call him chinese.",
+  image: meme22
+  },
+
+  {text: "I beleive Japan doesn't yet understand Christmas",
+  image: meme23
+  },
+
+  {text: "Bro's second car crash this week.",
+  image: meme24
+  },
+
+  {text: "Had to put something on my resume...",
+  image: meme25
+  },
+
+  {text: "See that black dude? Not him, the other one.",
+  image: meme26
+  },
+
+  {text: "Heinrich Potter",
+  image: meme27
+  },
+
+  {text: "Grandma VS Grandma.zip",
+  image: meme28
+  },
+
+  {text: "Genders are like the twin tower, there used to be two of them and now it's a sensitive topic.",
+  image: meme29
+  },
+
+  {text: "Life gets pretty dark...",
+  image: meme30
+  },
+
+  {text: "Oh no, not again.",
+  image: meme31
+  },
+
+  {text: "When you step on a landmine but don't weigh enough o activate it-:",
+  image: meme32
+  }
 ];
 
 const flowerStyles = [
@@ -136,7 +185,7 @@ function App(){
   const[currentsentence,setcurrentsentence] = useState(getrandomsentence());
 
   useEffect(()=>{
-    if(input===currentsentence){
+    if(input===currentsentence.text){
       const newscore=score+20;
       setScore(newscore);
       setinput("");
@@ -154,7 +203,7 @@ useEffect(() => {
 
   const interval = setInterval(() => {
     setZombiePosition(pos => {
-      if (pos >= 82) {
+      if (pos >= 85) {
         setdead(true);
         clearInterval(interval);
         return pos;
@@ -183,7 +232,7 @@ useEffect(() => {
      
         <>
         <div className='heading'>
-        <p>Type to survive</p>
+        <p>Zombie Kill</p>
         </div>
 
         <div className='scoreboard'>
@@ -217,7 +266,8 @@ useEffect(() => {
         </div>
         <div className='maintext'>
           <div className='currentsentence'>
-            <p>{currentsentence}</p>
+            <p>{currentsentence.text}</p>
+            <img id="memeImage" src={currentsentence.image} alt="meme"/>
           </div>
 
           <div className='typehere'>
@@ -230,7 +280,7 @@ useEffect(() => {
     {issaved===true &&(
       <div className='winwrapper'>
         <div className='won'>
-          <p>YOU ARE SAVED!!</p>
+          <p>YOU ARE SAFE!!</p>
           <button onClick={reset}>Try again?</button>
         </div>
       </div>

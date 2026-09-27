@@ -13,7 +13,7 @@ html, body {
 
 @keyframes pulse{
   0%,100%{
-    transform:scale (1);
+    transform:scale(1);
   }
 
   50%{
@@ -26,7 +26,7 @@ html, body {
   animation: pulse 3s infinite ease-in-out;
   color: rgb(200, 228, 218);
   width: min(30%,300px);
-  font-size:clamp(8px,3vw,14px);
+  font-size: 14px;
 }
 .scoreboard{
   position: fixed;
@@ -100,7 +100,7 @@ html, body {
     width: clamp(90px, 20vw, 122px);
     height: auto;
     border-radius: 200px;
-    z-index: 2;
+    z-index: 8;
     transition: left 0.1s linear;
 }
 
@@ -116,7 +116,7 @@ html, body {
 
 .currentsentence{
   font-family: 'Press start 2P', cursive;
-  font-size: clamp(13px,2vw,19px);
+  font-size: 19px;
   text-align: center;
   display: block;
   margin: 20px auto;
@@ -131,8 +131,8 @@ input::placeholder{
   border: none;
   background: none;
   outline:none;
-   font-family: 'Press start 2P', cursive;
-  font-size: clamp(13px,2vw,19px);
+  font-family: 'Press start 2P', cursive;
+  font-size: 19px;
   width: 100%;
   color: white;
   text-align: center;
@@ -250,6 +250,11 @@ input::placeholder{
     object-fit: contain;
     border-radius: 10px;
     margin: 15px 0;
+    z-index: 5;
 }
+
+
+
+
 
 

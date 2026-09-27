@@ -265,9 +265,11 @@ useEffect(() => {
 
         </div>
         <div className='maintext'>
+          <div className='meme-box'>
           <div className='currentsentence'>
             <p>{currentsentence.text}</p>
             <img id="memeImage" src={currentsentence.image} alt="meme"/>
+          </div>
           </div>
 
           <div className='typehere'>

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Zombie-kill/static/css/main.1c173ac8.css",
-    "main.js": "/Zombie-kill/static/js/main.10446c59.js",
+    "main.css": "/Zombie-kill/static/css/main.3b6c9906.css",
+    "main.js": "/Zombie-kill/static/js/main.0b76a096.js",
     "static/js/453.5814abc8.chunk.js": "/Zombie-kill/static/js/453.5814abc8.chunk.js",
     "static/media/kashmiri.jpeg": "/Zombie-kill/static/media/kashmiri.c85b45ffd65815a8e65d.jpeg",
     "static/media/christ.jpeg": "/Zombie-kill/static/media/christ.ea634f19795106e46450.jpeg",
@@ -36,12 +36,12 @@
     "static/media/signn.jpg": "/Zombie-kill/static/media/signn.401dbe80692ecf99027f.jpg",
     "static/media/af.jpg": "/Zombie-kill/static/media/af.3ffe9bf8264aee6459e5.jpg",
     "index.html": "/Zombie-kill/index.html",
-    "main.1c173ac8.css.map": "/Zombie-kill/static/css/main.1c173ac8.css.map",
-    "main.10446c59.js.map": "/Zombie-kill/static/js/main.10446c59.js.map",
+    "main.3b6c9906.css.map": "/Zombie-kill/static/css/main.3b6c9906.css.map",
+    "main.0b76a096.js.map": "/Zombie-kill/static/js/main.0b76a096.js.map",
     "453.5814abc8.chunk.js.map": "/Zombie-kill/static/js/453.5814abc8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c173ac8.css",
-    "static/js/main.10446c59.js"
+    "static/css/main.3b6c9906.css",
+    "static/js/main.0b76a096.js"
   ]
 }

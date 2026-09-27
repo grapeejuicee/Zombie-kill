@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Zombie-kill/static/css/main.bdd56aeb.css",
+    "main.css": "/Zombie-kill/static/css/main.923c9247.css",
     "main.js": "/Zombie-kill/static/js/main.10446c59.js",
     "static/js/453.5814abc8.chunk.js": "/Zombie-kill/static/js/453.5814abc8.chunk.js",
     "static/media/kashmiri.jpeg": "/Zombie-kill/static/media/kashmiri.c85b45ffd65815a8e65d.jpeg",
@@ -36,12 +36,12 @@
     "static/media/signn.jpg": "/Zombie-kill/static/media/signn.401dbe80692ecf99027f.jpg",
     "static/media/af.jpg": "/Zombie-kill/static/media/af.3ffe9bf8264aee6459e5.jpg",
     "index.html": "/Zombie-kill/index.html",
-    "main.bdd56aeb.css.map": "/Zombie-kill/static/css/main.bdd56aeb.css.map",
+    "main.923c9247.css.map": "/Zombie-kill/static/css/main.923c9247.css.map",
     "main.10446c59.js.map": "/Zombie-kill/static/js/main.10446c59.js.map",
     "453.5814abc8.chunk.js.map": "/Zombie-kill/static/js/453.5814abc8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdd56aeb.css",
+    "static/css/main.923c9247.css",
     "static/js/main.10446c59.js"
   ]
 }
